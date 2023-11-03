@@ -12,8 +12,8 @@
     "tsconfig": "*",
     "turbo": "latest"
   },
-  "name": "turbotest",
-  "packageManager": "yarn@1.22.19",
+  "name": "web3-global-hackathon",
+  "packageManager": "pnpm@8.10.2",
   "workspaces": [
     "apps/*",
     "packages/*"
